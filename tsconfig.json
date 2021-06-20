@@ -2,13 +2,13 @@
 	"compilerOptions": {
 		"allowJs": false,
 		"declaration": true,
-		"lib": [ "es2015", "es2017" ],
+		"lib": [ "ES2019" ],
 		"types": [
 			"node",
 			"jest"
 		],
 		"outDir": "dist",
-		"target": "ES6",
+		"target": "ES2019",
 		"module": "CommonJS",
 		"moduleResolution": "node",
 		"noImplicitAny": true,
